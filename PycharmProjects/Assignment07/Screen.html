@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The Window Screen Object</h1>
+<h2>The availHeight Property</h2>
+<p id="demo"></p>
+<h2>The availWidth Property</h2>
+<p id="demo1"></p>
+<h2>The colorDepth Property</h2>
+<p id="demo2"></p>
+<h2>The height Property</h2>
+<p id="demo3"></p>
+<h2>The pixelDepth Property</h2>
+<p id="demo4"></p>
+<h2>The width Property</h2>
+<p id="demo5"></p>
+
+<script>
+let aheight = screen.availHeight;
+document.getElementById("demo").innerHTML = aheight + "px";
+let awidth = screen.availWidth;
+document.getElementById("demo1").innerHTML = awidth + "px";
+let adepth = screen.colorDepth;
+document.getElementById("demo2").innerHTML =  adepth + " bits per pixel";
+let height = screen.height;
+document.getElementById("demo3").innerHTML =  height + "px";
+let depth = screen.pixelDepth;
+document.getElementById("demo4").innerHTML = depth + " bits per pixel";
+let width = screen.width;
+document.getElementById("demo5").innerHTML =  width + "px";
+</script>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+"/Users/talha/PycharmProjects/Assignment 4/.venv/bin/python" /Users/talha/PycharmProjects/Assignment 4/Assignment04.py
+Country not found Channel Islands
+Country not found MS Zaandam
+Wrote output file Assignment4.html
+Wrote output file Assignment4.txt
+Wrote output file Assignment04.csv
+
+Process finished with exit code 0

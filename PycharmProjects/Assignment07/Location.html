@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The href Property</h2>
+<p id="demo"></p>
+<h2>The hostname Property</h2>
+<p id="demo1"></p>
+<h2>The pathname Property</h2>
+<p id="demo2"></p>
+<h2>The protocol Property</h2>
+<p id="demo3"></p>
+
+<script>
+let url = location.href;
+document.getElementById("demo").innerHTML = url;
+let hostname = location.hostname;
+document.getElementById("demo1").innerHTML = hostname;
+let path = location.pathname;
+document.getElementById("demo2").innerHTML = path;
+let protocol = location.protocol;
+document.getElementById("demo3").innerHTML = protocol;
+</script>
+
+</body>
+</html>

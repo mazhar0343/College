@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+h3 {
+    color: blue;
+}
+.vericaltext {
+ writing-mode: vertical-lr;
+ text-orientation: upright;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    vertical-align: top
+}
+th > a {
+    color: white;
+}
+th {
+    background-color: blue;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: red;
+    color: white;
+}
+tr:nth-child(odd) {
+    background-color: white;
+    color: red;
+}

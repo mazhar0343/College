@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Navigator</title>
+</head>
+<body>
+<h2>AppName</h2>
+<p id="demo"></p>
+<h2>Product</h2>
+<p id="demo1"></p>
+<h2>Version</h2>
+<p id="demo2"></p>
+<h2>Agent</h2>
+<p id="demo3"></p>
+<h2>Platform</h2>
+<p id="demo4"></p>
+<h2>Language</h2>
+<p id="demo5"></p>
+
+<script>
+let appName = navigator.appName;
+document.getElementById("demo").innerHTML = "Browser Name: " + appName;
+let product =  navigator.product;
+document.getElementById("demo1").innerHTML = "Browser product: " + product;
+let version =  navigator.appVersion;
+document.getElementById("demo2").innerHTML = "Browser version:<br>" + version;
+let agent = navigator.userAgent;
+document.getElementById("demo3").innerHTML = "User-agent:<br>" + agent;
+let platform = navigator.platform;
+document.getElementById("demo4").innerHTML = "Platform: " + platform;
+let language = navigator.language;
+document.getElementById("demo5").innerHTML = "Platform: " + language;
+</script>
+</body>
+</html>

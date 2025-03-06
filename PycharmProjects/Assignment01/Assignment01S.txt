@@ -1,0 +1,5 @@
+/Users/talha/PycharmProjects/pythonProject1/.venv/bin/python /Users/talha/PycharmProjects/pythonProject1/Assignment01S.py
+Socket successfully created
+socket binded to 12345
+socket is listening
+Got connection from ('127.0.0.1', 58370)

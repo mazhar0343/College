@@ -1,0 +1,229 @@
+Country,Continent,Population,Cases,Deaths,Cases per Capita,Death Rate
+United States,North America,339996563,111820082,1219487,0.33,0.01
+India,Asia,1428627663,45035393,533570,0.03,0.01
+France,Europe,64756584,40138560,167642,0.62,0.0
+Germany,Europe,83294633,38828995,183027,0.47,0.0
+Brazil,South America,216422446,38743918,711380,0.18,0.02
+South Korea,Asia,51784059,34571873,35934,0.67,0.0
+Japan,Asia,123294513,33804284,74707,0.27,0.0
+Italy,Europe,58870762,26723249,196487,0.45,0.01
+United Kingdom,Europe,67736802,24910387,232112,0.37,0.01
+Russia,Europe,144444359,24124215,402756,0.17,0.02
+Turkey,Asia,85816199,17232066,102174,0.2,0.01
+Spain,Europe,47519628,13914811,121760,0.29,0.01
+Australia,Australia/Oceania,26439111,11853144,24414,0.45,0.0
+Vietnam,Asia,98858950,11625195,43206,0.12,0.0
+Taiwan,Asia,23923276,10241523,19005,0.43,0.0
+Argentina,South America,45773884,10128845,130841,0.22,0.01
+Netherlands,Europe,17618299,8635786,22992,0.49,0.0
+Mexico,North America,128455567,7702809,334958,0.06,0.04
+Iran,Asia,89172767,7627186,146811,0.09,0.02
+Indonesia,Asia,277534122,6829221,162063,0.02,0.02
+Poland,Europe,41026067,6661991,120598,0.16,0.02
+Colombia,South America,52085168,6400173,143200,0.12,0.02
+Greece,Europe,10341277,6101379,37869,0.59,0.01
+Austria,Europe,8958960,6081287,22542,0.68,0.0
+Portugal,Europe,10247605,5643062,28126,0.55,0.0
+Ukraine,Europe,36744634,5557995,112418,0.15,0.02
+Chile,South America,19629590,5384853,64497,0.27,0.01
+Malaysia,Asia,34308525,5278406,37348,0.15,0.01
+Canada,North America,38781291,4946090,59034,0.13,0.01
+Belgium,Europe,11686140,4861695,34376,0.42,0.01
+Israel,Asia,9174520,4841772,12707,0.53,0.0
+North Korea,Asia,26160821,4772813,74,0.18,0.0
+Thailand,Asia,71801279,4770149,34586,0.07,0.01
+Czech Republic (Czechia),Europe,10495295,4759041,43517,0.45,0.01
+Peru,South America,34352719,4572667,222161,0.13,0.05
+Switzerland,Europe,8796669,4453053,14452,0.51,0.0
+Philippines,Asia,117337368,4140383,66864,0.04,0.02
+South Africa,Africa,60414495,4076463,102595,0.07,0.03
+Romania,Europe,19892812,3529735,68929,0.18,0.02
+Denmark,Europe,5910913,3183756,8814,0.54,0.0
+Singapore,Asia,6014723,3006155,2024,0.5,0.0
+Hong Kong,Asia,7491609,2937609,14924,0.39,0.01
+Sweden,Europe,10612086,2754129,27407,0.26,0.01
+New Zealand,Australia/Oceania,5228100,2621111,5697,0.5,0.0
+Serbia,Europe,7149077,2615054,18057,0.37,0.01
+Iraq,Asia,45504560,2465545,25375,0.05,0.01
+Hungary,Europe,10156239,2230232,49048,0.22,0.02
+Bangladesh,Asia,172954319,2049377,29493,0.01,0.01
+Slovakia,Europe,5795199,1877605,21224,0.32,0.01
+Georgia,Asia,3728282,1861665,17132,0.5,0.01
+Jordan,Asia,11337052,1746997,14122,0.15,0.01
+Ireland,Europe,5056935,1734582,9491,0.34,0.01
+Pakistan,Asia,240485658,1581936,30664,0.01,0.02
+Finland,Europe,5545475,1516117,11958,0.27,0.01
+Norway,Europe,5474360,1509732,6638,0.28,0.0
+Kazakhstan,Asia,19606633,1411831,13848,0.07,0.01
+Lithuania,Europe,2718352,1397806,9897,0.51,0.01
+Slovenia,Europe,2119675,1356546,7100,0.64,0.01
+Bulgaria,Europe,6687717,1339851,38748,0.2,0.03
+Croatia,Europe,4008617,1309728,18687,0.33,0.01
+Guatemala,North America,18092026,1291293,20289,0.07,0.02
+Morocco,Africa,37840044,1278992,16303,0.03,0.01
+Lebanon,Asia,5353930,1243838,10952,0.23,0.01
+Costa Rica,North America,5212173,1238883,9428,0.24,0.01
+Bolivia,South America,12388571,1212131,22407,0.1,0.02
+Tunisia,Africa,12458223,1153361,29423,0.09,0.03
+Cuba,North America,11194449,1115251,8530,0.1,0.01
+Ecuador,South America,18190484,1070188,36043,0.06,0.03
+United Arab Emirates,Asia,9516871,1067030,2349,0.11,0.0
+Panama,North America,4468087,1059893,8727,0.24,0.01
+Uruguay,South America,3423108,1041111,7664,0.3,0.01
+Mongolia,Asia,3447157,1011496,2284,0.29,0.0
+Nepal,Asia,30896590,1003450,12031,0.03,0.01
+Belarus,Europe,9498238,994037,7118,0.1,0.01
+Latvia,Europe,1830211,982505,6715,0.54,0.01
+Saudi Arabia,Asia,36947025,841469,9646,0.02,0.01
+Paraguay,South America,6861524,837602,20155,0.12,0.02
+Azerbaijan,Asia,10412651,835234,10400,0.08,0.01
+Bahrain,Asia,1485509,729549,1574,0.49,0.0
+Cyprus,Asia,1260138,681110,1365,0.54,0.0
+Dominican Republic,North America,11332972,675890,4384,0.06,0.01
+Sri Lanka,Asia,21893579,672754,16897,0.03,0.03
+Kuwait,Asia,4310108,667158,2570,0.15,0.0
+Myanmar,Asia,54577997,641873,19495,0.01,0.03
+Moldova,Europe,3435931,635145,12218,0.18,0.02
+Estonia,Europe,1322765,628070,3001,0.47,0.0
+State of Palestine,Asia,5371230,621008,5404,0.12,0.01
+Venezuela,South America,28838499,552695,5856,0.02,0.01
+Egypt,Africa,112716598,516023,24613,0.0,0.05
+Qatar,Asia,2716391,514524,690,0.19,0.0
+Libya,Africa,6888388,507274,6437,0.07,0.01
+China,Asia,1425671352,503302,5272,0.0,0.01
+Ethiopia,Africa,126527060,501157,7574,0.0,0.02
+Réunion,Africa,981796,494595,921,0.5,0.0
+Honduras,North America,10593798,474590,11165,0.04,0.02
+Armenia,Asia,2777970,451831,8777,0.16,0.02
+Bosnia and Herzegovina,Europe,3210847,403615,16388,0.13,0.04
+Oman,Asia,4644384,399449,4628,0.09,0.01
+Luxembourg,Europe,654768,391232,1232,0.6,0.0
+North Macedonia,Europe,2085679,350567,9976,0.17,0.03
+Zambia,Africa,20569737,349304,4069,0.02,0.01
+Kenya,Africa,55100586,344130,5689,0.01,0.02
+Brunei ,Asia,452524,343719,225,0.76,0.0
+Albania,Europe,2832439,334863,3605,0.12,0.01
+Botswana,Africa,2675352,330638,2801,0.12,0.01
+Montenegro,Europe,626485,296542,2846,0.47,0.01
+Algeria,Africa,45606480,272010,6881,0.01,0.03
+Nigeria,Africa,223804632,267188,3155,0.0,0.01
+Zimbabwe,Africa,16665409,266359,5740,0.02,0.02
+Uzbekistan,Asia,35163944,253662,1637,0.01,0.01
+Afghanistan,Asia,42239854,234174,7996,0.01,0.03
+Mozambique,Africa,33897354,233731,2250,0.01,0.01
+Martinique,North America,366981,230354,1102,0.63,0.0
+Laos,Asia,7633779,218970,758,0.03,0.0
+Iceland,Europe,375318,209906,229,0.56,0.0
+Kyrgyzstan,Asia,6735347,206897,2991,0.03,0.01
+Guadeloupe,North America,395839,203235,1021,0.51,0.01
+El Salvador,North America,6364943,201855,4230,0.03,0.02
+Trinidad and Tobago,North America,1534937,191496,4390,0.12,0.02
+Maldives,Asia,521021,186694,316,0.36,0.0
+Namibia,Africa,2604172,172389,4106,0.07,0.02
+Uganda,Africa,48582334,172149,3632,0.0,0.02
+Ghana,Africa,34121985,171889,1462,0.01,0.01
+Jamaica,North America,2825544,156869,3756,0.06,0.02
+Cambodia,Asia,16944826,139103,3056,0.01,0.02
+Rwanda,Africa,14094683,133518,1468,0.01,0.01
+Cameroon,Africa,28647293,125379,1974,0.0,0.02
+Malta,Europe,535064,121420,885,0.23,0.01
+Barbados,North America,281995,110578,648,0.39,0.01
+Angola,Africa,36684202,107327,1937,0.0,0.02
+DR Congo,Africa,102262808,99338,1468,0.0,0.01
+French Guiana,South America,312155,98041,420,0.31,0.0
+Malawi,Africa,20931751,89535,2686,0.0,0.03
+Senegal,Africa,17763163,89053,1971,0.01,0.02
+Côte d'Ivoire,Africa,28873034,88384,835,0.0,0.01
+Suriname,South America,623236,82588,1408,0.13,0.02
+New Caledonia,Australia/Oceania,292991,80064,314,0.27,0.0
+French Polynesia,Australia/Oceania,308872,79254,650,0.26,0.01
+Eswatini,Africa,1210822,75191,1427,0.06,0.02
+Guyana,South America,813834,74137,1300,0.09,0.02
+Belize,North America,410825,71409,688,0.17,0.01
+Fiji,Australia/Oceania,936375,69117,885,0.07,0.01
+Madagascar,Africa,30325732,68486,1426,0.0,0.02
+Cabo Verde,Africa,598682,64477,417,0.11,0.01
+Sudan,Africa,48109006,63993,5046,0.0,0.08
+Mauritania,Africa,4862989,63848,997,0.01,0.02
+Bhutan,Asia,787424,62697,21,0.08,0.0
+Syria,Asia,23227014,57743,3165,0.0,0.05
+Burundi,Africa,13238559,54721,38,0.0,0.0
+Seychelles,Africa,107660,51220,172,0.48,0.0
+Gabon,Africa,2436566,49051,307,0.02,0.01
+Andorra,Europe,80088,48015,165,0.6,0.0
+Papua New Guinea,Australia/Oceania,10329931,46864,670,0.0,0.01
+Curaçao,North America,192077,45986,295,0.24,0.01
+Aruba,North America,106277,44224,292,0.42,0.01
+Tanzania,Africa,67438106,43223,846,0.0,0.02
+Mauritius,Africa,1300557,43025,1051,0.03,0.02
+Mayotte,Africa,335995,42027,188,0.13,0.0
+Togo,Africa,9053799,39572,290,0.0,0.01
+Guinea,Africa,14190612,38572,468,0.0,0.01
+Bahamas,North America,412623,38084,844,0.09,0.02
+Isle of Man,Europe,84710,38008,116,0.45,0.0
+Lesotho,Africa,2330318,36138,723,0.02,0.02
+Haiti,North America,11724763,34667,860,0.0,0.02
+Faeroe Islands,Europe,53270,34658,28,0.65,0.0
+Mali,Africa,23293698,33164,743,0.0,0.02
+Cayman Islands,North America,69310,31472,37,0.45,0.0
+Saint Lucia,North America,180251,30215,410,0.17,0.01
+Benin,Africa,13712828,28036,163,0.0,0.01
+Macao,Asia,704149,27673,123,0.04,0.0
+Somalia,Africa,18143378,27334,1361,0.0,0.05
+Micronesia,Australia/Oceania,544321,26547,65,0.05,0.0
+San Marino,Europe,33642,26185,128,0.78,0.0
+Solomon Islands,Australia/Oceania,740424,25954,199,0.04,0.01
+Congo,Africa,6106869,25375,386,0.0,0.02
+Timor-Leste,Asia,1360596,23460,138,0.02,0.01
+Burkina Faso,Africa,23251485,22114,400,0.0,0.02
+Liechtenstein,Europe,39584,21574,94,0.55,0.0
+Gibraltar,Europe,32688,20550,113,0.63,0.01
+Grenada,North America,126183,19693,238,0.16,0.01
+Bermuda,North America,64069,18860,165,0.29,0.01
+South Sudan,Africa,11088796,18819,147,0.0,0.01
+Nicaragua,North America,7046310,18491,225,0.0,0.01
+Tajikistan,Asia,10143543,17786,125,0.0,0.01
+Equatorial Guinea,Africa,1714671,17229,183,0.01,0.01
+Monaco,Europe,36297,17181,67,0.47,0.0
+Samoa,Australia/Oceania,225681,17006,31,0.08,0.0
+Tonga,Australia/Oceania,107773,16950,13,0.16,0.0
+Marshall Islands,Australia/Oceania,41996,16138,17,0.38,0.0
+Dominica,North America,73040,16038,74,0.22,0.0
+Djibouti,Africa,1136455,15690,189,0.01,0.01
+Central African Republic,Africa,5742315,15440,113,0.0,0.01
+Gambia,Africa,2773168,12626,372,0.0,0.03
+Saint Martin,North America,32077,12324,63,0.38,0.01
+Vanuatu,Australia/Oceania,334506,12019,14,0.04,0.0
+Greenland,North America,56643,11971,21,0.21,0.0
+Yemen,Asia,34449825,11945,2159,0.0,0.18
+Caribbean Netherlands,North America,27148,11682,38,0.43,0.0
+Sint Maarten,North America,44222,11051,92,0.25,0.01
+Eritrea,Africa,3748901,10189,103,0.0,0.01
+Niger,Africa,27202843,9931,312,0.0,0.03
+St. Vincent & Grenadines,North America,103698,9674,124,0.09,0.01
+Guinea-Bissau,Africa,2150842,9614,177,0.0,0.02
+Comoros,Africa,852075,9109,161,0.01,0.02
+Antigua and Barbuda,North America,94298,9106,146,0.1,0.02
+Liberia,Africa,5418377,8090,295,0.0,0.04
+Sierra Leone,Africa,8791092,7779,126,0.0,0.02
+Chad,Africa,18278568,7701,194,0.0,0.03
+British Virgin Islands,North America,31538,7392,64,0.23,0.01
+Cook Islands,Australia/Oceania,17044,7203,2,0.42,0.0
+Sao Tome & Principe,Africa,231856,6778,80,0.03,0.01
+Turks and Caicos,North America,46062,6752,40,0.15,0.01
+Saint Kitts & Nevis,North America,47755,6607,48,0.14,0.01
+Palau,Australia/Oceania,18058,6290,10,0.35,0.0
+Saint Barthelemy,North America,10994,5507,6,0.5,0.0
+Nauru,Australia/Oceania,12780,5393,1,0.42,0.0
+Kiribati,Australia/Oceania,133515,5085,24,0.04,0.0
+Anguilla,North America,15899,3904,12,0.25,0.0
+Wallis & Futuna,Australia/Oceania,11502,3550,8,0.31,0.0
+Saint Pierre & Miquelon,North America,5840,3452,2,0.59,0.0
+Tuvalu,Australia/Oceania,11396,2943,1,0.26,0.0
+Saint Helena,Africa,5314,2166,0,0.41,0.0
+Falkland Islands,South America,3791,1930,0,0.51,0.0
+Montserrat,North America,4386,1403,8,0.32,0.01
+Niue,Australia/Oceania,1935,1059,0,0.55,0.0
+Tokelau,Australia/Oceania,1893,80,0,0.04,0.0
+Holy See,Europe,518,29,0,0.06,0.0
+Western Sahara,Africa,587259,10,1,0.0,0.1

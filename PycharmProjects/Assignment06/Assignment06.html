@@ -1,0 +1,178 @@
+<html><head><meta name="description" content="OutputUtil developed by LT. Executed by /Users/talha/PycharmProjects/Assignment06">
+<style>body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+h3 {
+    color: blue;
+}
+.vericaltext {
+ writing-mode: vertical-lr;
+ text-orientation: upright;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    vertical-align: top
+}
+th > a {
+    color: white;
+}
+th {
+    background-color: blue;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: red;
+    color: white;
+}
+tr:nth-child(odd) {
+    background-color: white;
+    color: red;
+}</style>
+<script>
+function sortTable(tableId, colNum, colType) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchCount = 0;
+  table = document.getElementById(tableId);
+  switching = true;
+  dir = "asc";
+  while (switching) {
+    switching = false;
+    rows = table.rows;
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("td")[colNum];
+      y = rows[i + 1].getElementsByTagName("td")[colNum];
+      if (colType == 'N') { 
+        if (((dir == "asc") && (Number(x.innerHTML) > Number(y.innerHTML))) ||
+            ((dir == "desc") && (Number(x.innerHTML) < Number(y.innerHTML)))) {
+          shouldSwitch = true;
+          break;
+        }
+      } else {
+        if (((dir == "asc") && (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase())) ||
+            ((dir == "desc") && (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()))) {
+          shouldSwitch = true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      switchCount ++;
+    } else {
+     if (switchCount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+  }
+}
+</script>
+</head>
+<body><h1>Muhammad's Forwarding Table</h1>
+<table id="table-233" style="width:100%"><th><a href="javascript:sortTable('table-233', 0, 'S')"">Destination</a>
+</th>
+<th><a href="javascript:sortTable('table-233', 1, 'S')"">Gateway</a>
+</th>
+<th><a href="javascript:sortTable('table-233', 2, 'S')"">Flags</a>
+</th>
+<th><a href="javascript:sortTable('table-233', 3, 'S')"">Netif</a>
+</th>
+<th><a href="javascript:sortTable('table-233', 4, 'N')"">Expire</a>
+</th>
+<tr><td style="text-align:left;">default</td>
+<td style="text-align:left;">192.168.1.1</td>
+<td style="text-align:left;">UGScg</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;"></td>
+</tr>
+<tr><td style="text-align:left;">127</td>
+<td style="text-align:left;">127.0.0.1</td>
+<td style="text-align:left;">UCS</td>
+<td style="text-align:left;">lo0</td>
+<td style="text-align:right;"></td>
+</tr>
+<tr><td style="text-align:left;">127.0.0.1</td>
+<td style="text-align:left;">127.0.0.1</td>
+<td style="text-align:left;">UH</td>
+<td style="text-align:left;">lo0</td>
+<td style="text-align:right;"></td>
+</tr>
+<tr><td style="text-align:left;">169.254</td>
+<td style="text-align:left;">link#11</td>
+<td style="text-align:left;">UCS</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+<tr><td style="text-align:left;">192.168.1</td>
+<td style="text-align:left;">link#11</td>
+<td style="text-align:left;">UCS</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+<tr><td style="text-align:left;">192.168.1.1/32</td>
+<td style="text-align:left;">link#11</td>
+<td style="text-align:left;">UCS</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+<tr><td style="text-align:left;">192.168.1.1</td>
+<td style="text-align:left;">b8:f8:53:e3:2:79</td>
+<td style="text-align:left;">UHLWIir</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">1193</td>
+</tr>
+<tr><td style="text-align:left;">192.168.1.54/32</td>
+<td style="text-align:left;">link#11</td>
+<td style="text-align:left;">UCS</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+<tr><td style="text-align:left;">192.168.1.54</td>
+<td style="text-align:left;">10:bd:3a:79:bc:83</td>
+<td style="text-align:left;">UHLWI</td>
+<td style="text-align:left;">lo0</td>
+<td style="text-align:right;"></td>
+</tr>
+<tr><td style="text-align:left;">192.168.1.218</td>
+<td style="text-align:left;">c0:e4:34:c6:fe:f7</td>
+<td style="text-align:left;">UHLWI</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+<tr><td style="text-align:left;">192.168.1.255</td>
+<td style="text-align:left;">ff:ff:ff:ff:ff:ff</td>
+<td style="text-align:left;">UHLWbI</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+<tr><td style="text-align:left;">224.0.0/4</td>
+<td style="text-align:left;">link#11</td>
+<td style="text-align:left;">UmCS</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+<tr><td style="text-align:left;">224.0.0.251</td>
+<td style="text-align:left;">1:0:5e:0:0:fb</td>
+<td style="text-align:left;">UHmLWI</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;"></td>
+</tr>
+<tr><td style="text-align:left;">255.255.255.255/32</td>
+<td style="text-align:left;">link#11</td>
+<td style="text-align:left;">UCS</td>
+<td style="text-align:left;">en0</td>
+<td style="text-align:right;">!</td>
+</tr>
+</table>
+<center><h6>&copy;2024 • All Rights Reserved • Generated on Jun. 25, 2024 20:20 PM</h6>
+</center>
+</body>
+</html>

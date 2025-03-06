@@ -1,0 +1,28 @@
+/Users/talha/PycharmProjects/pythonProject1/.venv/bin/python /Users/talha/PycharmProjects/pythonProject1/Assingment01C.py
+Your Computer Name is:Talhas-Air
+Your Computer IP Address is:127.0.0.1
+Socket successfully created
+the socket has successfully connected to www.djxmmx.net @ 104.230.16.86 at port 17
+Ip address 104.230.16.86 in binary is 01101000111001100001000001010110
+IP address is 104.230.16.86 is class A
+Port: 17 is Well Know
+Recive from server "I'm into you and girl no one else would do.
+ With every kiss and every hug, you make me fall in love.
+ And now I know I can't be the only one, I bet there's hearts all over the world tonight, with the love of their life, who feel what I feel when I'm with you..."
+
+Socket successfully created
+the socket has successfully connected to time-a-wwv.nist.gov @ 132.163.97.1 at port 13
+Ip address 132.163.97.1 in binary is 10000100101000110110000100000001
+IP address is 132.163.97.1 is class B
+Port: 13 is Well Know
+Recive from server
+60466 24-06-05 23:24:45 50 0 0 730.3 UTC(NIST) *
+
+Socket successfully created
+the socket has successfully connected to localhost @ 127.0.0.1 at port 12345
+Ip address 127.0.0.1 in binary is 01111111000000000000000000000001
+IP address is 127.0.0.1 is class A
+Port: 12345 is Registerd
+Recive from server Thank you for connecting
+
+Process finished with exit code 0
